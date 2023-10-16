@@ -10,6 +10,7 @@ box-shadow: 6px 7px 26px -4px rgba(0, 0, 0, 0.75);
     -webkit-box-shadow: 6px 7px 26px -4px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 6px 7px 26px -4px rgba(0, 0, 0, 0.75);
 margin: 0 auto;
+margin-bottom: 50px; 
 `
 
 export const List = styled.tr`

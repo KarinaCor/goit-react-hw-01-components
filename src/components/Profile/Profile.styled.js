@@ -8,6 +8,7 @@ border-radius: 10%;
 box-shadow: 0 0 10px;
 border-radius: 15px;
 margin-bottom: 25px;
+margin-top: 50px;
 `
 
 export const Div = styled.div`
